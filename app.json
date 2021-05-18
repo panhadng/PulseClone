@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "An approximate clone of the WeDoPulse App of Prudential Life Assurance Company"
   }
 }
